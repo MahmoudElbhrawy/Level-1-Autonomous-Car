@@ -7,7 +7,7 @@ The car was tested on a curved track for accuracy and speed, avoiding collisions
 
 Figure Turn 1   
 ![image](https://github.com/MahmoudElbhrawy/Level-1-Autonomous-Car/assets/110239321/fb63ab61-dec7-40c2-a479-e846007da282)
-                                                                                             Figure Track 1
+Figure Track 1
 ![image](https://github.com/MahmoudElbhrawy/Level-1-Autonomous-Car/assets/110239321/c06b08c8-346b-481c-a59b-0ceb928523f7)
 Figure Turn 2
 ![image](https://github.com/MahmoudElbhrawy/Level-1-Autonomous-Car/assets/110239321/bf330396-69b2-416e-9baf-f3a6504421a4)
