@@ -1,7 +1,7 @@
 # Level-1-Autonomous-Car
 FlowChart
 
-![Blank board](https://github.com/MahmoudElbhrawy/Level-1-Autonomous-Car/assets/110239321/7cb08b57-613f-43c2-a87c-db1863015ec9)
+![WhatsApp Image 2024-05-12 at 05 47 33_cab7f5c2](https://github.com/MahmoudElbhrawy/Level-1-Autonomous-Car/assets/110239321/4ced7410-ad84-49dc-9848-54569839482a)
 
 The car was tested on a curved track for accuracy and speed, avoiding collisions but lacking desired accuracy. To improve, a PID control system was installed, and Kd, Ki, and Kp values were adjusted iteratively. Through multiple tests on curved tracks, the car achieved both the desired speed and obstacle avoidance, showcasing the effectiveness of the PID control system in enhancing performance and accuracy in challenging driving scenarios.
 
